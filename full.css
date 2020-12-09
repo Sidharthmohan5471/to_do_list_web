@@ -1,0 +1,44 @@
+@import "https://use.fontawesome.com/releases/v5.5.0/css/all.css";
+a{
+    border: 1px hidden black;
+    margin: 5px;
+    font-size: x-large;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-size: cover;
+  }
+
+li{
+    color: white;
+}
+.table{
+    margin-top: 20px;
+    background: transparent !important; 
+}
+th{
+    color: white;
+    font-size: larger;
+}
+td{
+    color: orange;
+}
+
+.Regcontainer{
+    width:450px;
+    margin: 70px auto;
+    border : 1px solid;
+    background-color: aliceblue;
+    top:0;
+    margin-top: 20%;
+
+}
+
+.btn-sml {
+    padding: 10px 10px;
+    font-size: 22px;
+    border-radius: 8px;
+}
+
